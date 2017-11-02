@@ -1,1 +1,1 @@
-FROM  docker.elastic.co/kibana/kibana:5.6.2
+FROM  gcr.io/google_containers/kibana:v4.6.1-1
